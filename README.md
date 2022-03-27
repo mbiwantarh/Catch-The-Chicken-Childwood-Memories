@@ -3,7 +3,7 @@ This application in an endless runner mobile game made with unity.
 
 It's a new / my take on creating the popular endless runner mobile games.
 
-ROADMAP:
+# ROADMAP PHASE 1:
 This are the things I will like to accomplish as the continuously build and update my mobile game both and github and when It is eventually up on Google's PlayStore and Apples AppStore.
 
 * Player controller with touch/swipe controls
@@ -18,18 +18,20 @@ This are the things I will like to accomplish as the continuously build and upda
 
 * Camera Controller with Cinemachine
 
-# User Interface Design
+* User Interface Design
 
-# Achievements
+* Achievements
 
-# LeadersBoards
+* LeadersBoards
 
-# Google Sign-In
+* Google Sign-In
 
-# Saving Game / Player Stats
+* Saving Game / Player Stats
 
-# Monetization - Rewarded Video Ads, Banner Ads, Intersticial Ads
+* Monetization - Rewarded Video Ads, Banner Ads, Intersticial Ads
 
-# Game Polishing - Particle Effects & Post Processing
+* Game Polishing - Particle Effects & Post Processing
 
 CONTINUOUS UPDATES OF ROADMAP AND EVENTUAL MOBILE GAME
+
+# ROADMAP PHASE 2:
