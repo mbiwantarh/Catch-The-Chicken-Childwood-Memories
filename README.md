@@ -8,15 +8,15 @@ This are the things I will like to accomplish as the continuously build and upda
 
 * Player controller with touch/swipe controls
 
-# Character selection
+* Character selection
 
-# Chicken controller using the A * Pathfinding asset on the Unity's Asset Store
+* Chicken controller using the A * Pathfinding asset on the Unity's Asset Store
 
-# Game Manager creation with Game Mechanics & Powerups
+* Game Manager creation with Game Mechanics & Powerups
 
-# Audio Manager
+* Audio Manager
 
-# Camera Controller with Cinemachine
+* Camera Controller with Cinemachine
 
 # User Interface Design
 
