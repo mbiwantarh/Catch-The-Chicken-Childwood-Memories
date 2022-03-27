@@ -6,7 +6,7 @@ It's a new / my take on creating the popular endless runner mobile games.
 ROADMAP:
 This are the things I will like to accomplish as the continuously build and update my mobile game both and github and when It is eventually up on Google's PlayStore and Apples AppStore.
 
-*Player controller with touch/swipe controls
+* Player controller with touch/swipe controls
 
 # Character selection
 
